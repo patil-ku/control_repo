@@ -7,4 +7,5 @@ file{'/root/README':
   
 file {'root/README':
   owner => 'root',
+  }
 }
